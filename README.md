@@ -1,90 +1,73 @@
-<div align="center">
-
 # Abhinay Kota.
+### B.Tech CSE (AIML) · Software Developer · AI/ML Enthusiast
 
-**B.Tech CSE · AIML · Mangalagiri, IN**
-
-Software developer & AI/ML enthusiast turning data into decisions.  
-Building smarter solutions one commit at a time.
-
-![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-%237F77DD?style=flat&labelColor=%23EEEDFE&color=%23EEEDFE&logoColor=%233C3489)
-![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-%235DCAA5?style=flat&labelColor=%23E1F5EE&color=%23E1F5EE&logoColor=%23085041)
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-%23F0997B?style=flat&labelColor=%23FAECE7&color=%23FAECE7&logoColor=%23712B13)
+Software developer & AI/ML enthusiast turning data into decisions.<br>
+Passionate about building real-world solutions with Python, C++, and modern ML frameworks.
 
 > *"Building skills today to create smarter solutions tomorrow."*
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinay-kota-40178a291)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abhinay_kota17)
-[![X](https://img.shields.io/badge/X-%23000000?style=flat&logo=x&logoColor=white)](https://x.com/@Abhinaykota17)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhinaykota2312@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinay-kota-40178a291)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/abhinay_kota17)
+[![X](https://img.shields.io/badge/X-%23000000?style=flat-square&logo=x&logoColor=white)](https://x.com/@Abhinaykota17)
+[![Email](https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinaykota2312@gmail.com)
 
 ---
 
-## Tech stack
+## 🧠 About me
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**AI & Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Web & Cloud**
-
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+- 🎓 Pursuing **B.Tech in CSE (AI & ML)** — focused on building a strong engineering foundation
+- 💡 Interested in **Machine Learning, Deep Learning, and Data-driven systems**
+- 🛠️ Currently building projects with **Python, React, and cloud tools**
+- 📈 Sharpening **DSA in C++** for placements and competitive programming
+- 🚀 Goal: Land my first **Software Engineering role** and keep shipping
 
 ---
 
-## GitHub stats
+## 🛠️ Languages
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html&theme=light" />
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=abhinayk04&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=6e40c9&text_color=555&icon_color=6e40c9)
+## 🤖 AI / ML
 
-![Streak Stats](https://streak-stats.demolab.com/?user=abhinayk04&theme=transparent&hide_border=true&ring=6e40c9&fire=e85d4a&currStreakLabel=6e40c9)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" />
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=abhinayk04&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=6e40c9&text_color=555)
+## 🌐 Web & Cloud
 
-</div>
+<img src="https://skillicons.dev/icons?i=react,aws&theme=light" />
 
----
+## 🗄️ Databases & Tools
 
-## Currently focused on
-
-🧠 &nbsp;**Deep learning & model building** — Exploring PyTorch, neural architectures, and real-world ML pipelines
-
-💻 &nbsp;**Full-stack projects** — Shipping end-to-end apps with React, Node, and cloud deployments
-
-🏆 &nbsp;**Competitive problem solving** — Sharpening DSA skills in C++ for placement preparation
-
-🚀 &nbsp;**Growing as an engineer** — Reading, building, and iterating every day toward my first SWE role
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git&theme=light" />
 
 ---
 
-<div align="center">
+## 📊 GitHub stats
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abhinayk04&color=6e40c9&style=flat&label=Profile+views)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinayk04&show_icons=true&theme=default&hide_border=true&title_color=6e40c9&icon_color=6e40c9&text_color=444&bg_color=ffffff&include_all_commits=false&count_private=false)
 
-</div>
+![Streak](https://streak-stats.demolab.com/?user=abhinayk04&theme=default&hide_border=true&ring=6e40c9&fire=e85d4a&currStreakLabel=6e40c9&sideLabels=444&dates=888)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayk04&layout=compact&theme=default&hide_border=true&title_color=6e40c9&text_color=444&bg_color=ffffff)
+
+---
+
+## 🔭 What I'm working on
+
+| Area | Details |
+|------|---------|
+| 🧠 Deep Learning | Neural architectures, model training pipelines in PyTorch |
+| 💻 Full-Stack | End-to-end apps with React + Node + MongoDB |
+| 🏆 DSA | C++ problem solving — arrays, trees, graphs, DP |
+| 📚 Learning | AWS, system design fundamentals, open source contributions |
+
+---
+
+## 🤝 Let's connect
+
+I'm always open to collaborating on interesting projects, discussing AI/ML ideas, or just chatting about tech.
+
+**Reach me at:** [abhinaykota2312@gmail.com](mailto:abhinaykota2312@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhinayk04&color=6e40c9&style=flat-square&label=Profile+views)
