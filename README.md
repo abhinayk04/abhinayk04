@@ -53,12 +53,9 @@ Passionate about building real-world solutions with Python, C++, and modern ML f
 
 ## What I'm working on
 
-| Area | Details |
-|------|---------|
-| Deep Learning | Neural architectures, model training pipelines in PyTorch |
-| Full-Stack | End-to-end apps with React + Node + MongoDB |
-| DSA | C++ problem solving — arrays, trees, graphs, DP |
-| Learning | AWS, system design fundamentals, open source contributions |
+**Currently learning & building:**
+
+`Deep Learning` &nbsp;·&nbsp; `NLP` &nbsp;·&nbsp; `DSA in C++`
 
 ---
 
